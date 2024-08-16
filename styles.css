@@ -34,7 +34,9 @@ body {
   font-weight: 700;
 }
 
-.text-preset1:hover {
+.text-preset1:hover,
+:focus,
+:active {
   color: var(--color-yellow, #f4d04e);
   cursor: pointer;
 }
