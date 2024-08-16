@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [View solution here](https://github.com/yyuntzpan/OnlineChallenge_blog-preview-card)
+- Live Site URL: [View live site here](https://challenge02-blog-preview-card.vercel.app/)
 
 ## My process
 
@@ -49,7 +49,6 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
-
 
 ### What I learned
 - 只要父容器設定flex+height，搭配子容器margin-auto 就可以實現垂直及水平置中
