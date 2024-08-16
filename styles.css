@@ -32,11 +32,10 @@ body {
 .text-preset1 {
   font-size: 1.5rem;
   font-weight: 700;
+  transform: all;
 }
 
-.text-preset1:hover,
-:focus,
-:active {
+.text-preset1:hover {
   color: var(--color-yellow, #f4d04e);
   cursor: pointer;
 }
